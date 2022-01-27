@@ -1,4 +1,4 @@
-# helloweb
+# HelloWeb
  The following project show how to write a simple web-based  application
  which makes use of redirect approach to transfer  a http request to another page.
 
