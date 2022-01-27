@@ -24,5 +24,3 @@
 
 ### Web.xml
     Another Spring Web configuration file
-
-
