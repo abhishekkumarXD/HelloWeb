@@ -9,7 +9,7 @@
  
 ## External Dependencies
    Finally, following is the list of Spring and other libraries to be included in your web 
-   application. You simply drag these files and drop them in WebContent/WEBINF/lib folder.  
+   application. You simply drag these files and drop them in WebContent/WEBINF/lib folder.     
      
    • commons-logging-x.y.z.jar  
    • org.springframework.asm-x.y.z.jar  
